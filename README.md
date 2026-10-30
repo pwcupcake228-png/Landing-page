@@ -8,7 +8,7 @@ A responsive one-page landing page presenting Nothing products and brand informa
 
 ## Design Reference
 
-[View the Figma design](https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version)
+[View the Figma design](https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6802-139&p=f&t=Oo0ibN8VyNDBsN9o-0)
 
 ## Technologies
 
